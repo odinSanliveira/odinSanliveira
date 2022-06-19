@@ -3,7 +3,7 @@
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas pelo IFPE
 - 🌱 Atualmente estudando: C#(.NET), SQL e Python
-- 💬 Disposto para trabalhar em projetos voluntariamente por experiência.
+- 💬 Interesse na área de machine learning (primeiros passos)
 - 📫 Pode falar comigo pelo email: odin.sanliveira@gmail.com
 - 😄 Pronomes: Ele/dele
 
