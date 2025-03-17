@@ -1,8 +1,9 @@
 ## Hello there⭐⚔
 
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas pelo IFPE
-- 🌱 Atualmente estudando: C#(.NET), SQL e Python
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas pelo IFPE
+- 🌱 Atualmente trabalhando com: C#(.NET)
+- 🍄 Estudando: C++ e Unity
 - 💬 Interesse na área de machine learning (primeiros passos)
 - 📫 Pode falar comigo pelo email: odin.sanliveira@gmail.com
 - 😄 Pronomes: Ele/dele
